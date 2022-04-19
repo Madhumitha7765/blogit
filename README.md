@@ -1,6 +1,6 @@
-# blogg_app
+# Blog App
 
-A new Flutter project.
+A blog application developed using Flutter SDK which enables users to post blog content in the feed with appropriate author name and images. The posted blog contents are stored in a database using Firebase and displayed in the feed after retrieval of data.
 
 ## Getting Started
 
